@@ -5,7 +5,7 @@ MAVEN MARKET SALES REPORT USING POWER BI
 
   We're given a folder of raw CSV files containing information about transactions, calender, customers, products, returns, regions, stores.
   
-  Here we used Power BI to 
+  Here we used Power BI to:
   
     • Connect and shape the raw data
     • Build a relational data model
